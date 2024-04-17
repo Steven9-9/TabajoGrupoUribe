@@ -1,0 +1,94 @@
+{
+  "estudiante": [
+    {
+      "id": "",
+      "nombreEstudiante": "",
+      "notaExcel": "",
+      "correo": "",
+      "documento": "",
+      "telefono": "",
+      "direccion": ""
+    },
+    {
+      "id": "18",
+      "nombreEstudiante": "alejandra arango ",
+      "notaExcel": "4.0",
+      "correo": "aleja@gmail.com",
+      "documento": "123456789",
+      "telefono": "314589634",
+      "direccion": "cl34#74-96"
+    },
+    {
+      "id": "78",
+      "nombreEstudiante": "steven garcia",
+      "notaExcel": "5.0",
+      "correo": "steven@gmail.com",
+      "documento": "12345678",
+      "telefono": "123456789",
+      "direccion": "cr34#74-56"
+    },
+    {
+      "id": "29",
+      "nombreEstudiante": "john rojas",
+      "notaExcel": "5.0",
+      "correo": "john@gmail.com",
+      "documento": "12345678",
+      "telefono": "123456789",
+      "direccion": "cr34#74-56"
+    },
+    {
+      "id": "3",
+      "nombreEstudiante": "maria",
+      "notaExcel": "",
+      "correo": "maria@gmail.com",
+      "documento": "",
+      "telefono": "",
+      "direccion": ""
+    },
+    {
+      "id": "46",
+      "nombreEstudiante": "male",
+      "notaExcel": "2.0",
+      "correo": "male@gmail.com",
+      "documento": "123456789",
+      "telefono": "123456789",
+      "direccion": "crl56#96"
+    },
+    {
+      "id": "96",
+      "nombreEstudiante": "as",
+      "notaExcel": "as@s.com",
+      "correo": "1.0",
+      "documento": "123456",
+      "telefono": "35656974",
+      "direccion": "cl465465"
+    },
+    {
+      "id": "27",
+      "nombreEstudiante": "asd",
+      "notaExcel": "1.0",
+      "correo": "asd@asd.com",
+      "documento": "123125465",
+      "telefono": "54564512",
+      "direccion": "cl45465"
+    },
+    {
+      "id": "1",
+      "nombreEstudiante": "papito",
+      "notaExcel": "2.8",
+      "correo": "asdsa",
+      "documento": "1236546",
+      "telefono": "1245465465",
+      "direccion": "2312654"
+    },
+    {
+      "id": "88",
+      "nombreEstudiante": "rtty",
+      "notaExcel": "rtyrt",
+      "correo": "rtyrt",
+      "documento": "rtyty",
+      "telefono": "rty",
+      "direccion": "rty"
+    }
+  ]
+}
